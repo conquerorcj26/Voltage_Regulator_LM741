@@ -1,0 +1,1 @@
+Any change in load resistance is not effecting the output voltage at all.
